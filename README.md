@@ -17,8 +17,7 @@ network multiplies its weights to the corresponding output data from the previou
 Proposed Feedforward Neural Network
 
 ![image](https://user-images.githubusercontent.com/48494146/197579466-f7f2716e-bcf4-460c-a4fe-c77d9ff30506.png)
-Power consumption rate dreceased by 13x times when replacing multipliers with shifters.
-
+Power consumption rate dreceased by 13x times
 ![image](https://user-images.githubusercontent.com/48494146/197579888-9b6269e9-1867-42b8-8710-a28365b218f3.png)
 Hardware Model of the Feedforward Network
 
