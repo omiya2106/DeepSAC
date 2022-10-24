@@ -3,7 +3,7 @@
 
 ## Proposed Sleep Apnea Detection Model:
 ![image](https://user-images.githubusercontent.com/48494146/197580046-4a766159-a126-4e2f-b612-1707e5f41707.png)
-Block diagram of the proposed detection model
+**Figure:** Block Level Diagram of the Proposed Sleep Apnea Detection System
 
 ## Motivation
 A typical digital hardware accelerator uses multiplyaccumulate function (MAC) as its neuron units. The synapse of the fully connected neural
@@ -14,15 +14,13 @@ network multiplies its weights to the corresponding output data from the previou
 
 ## Results
 ![image](https://user-images.githubusercontent.com/48494146/197579647-02053d9a-1e69-4b73-8e1a-0ee8b9105f0a.png)
-Proposed Feedforward Neural Network
-
+**Figure:** Proposed Feedforward Neural Network
 ![image](https://user-images.githubusercontent.com/48494146/197579466-f7f2716e-bcf4-460c-a4fe-c77d9ff30506.png)
-Power consumption rate dreceased by 13x times
+**Figure:** Power consumption rate dreceased by 13x times when replacing multipliers with shifters
 ![image](https://user-images.githubusercontent.com/48494146/197579888-9b6269e9-1867-42b8-8710-a28365b218f3.png)
-Hardware Model of the Feedforward Network
-
+**Figure:** Hardware Model of the Feedforward Network
 ![image](https://user-images.githubusercontent.com/48494146/197579750-314e038e-5faa-4b2e-92c4-bcdf6d4e8983.png)
-Simulation results on reprogrammable hardware (Nexys Artix-7 FPGA)
+**Figure:** Simulation results on reprogrammable hardware (Nexys Artix-7 FPGA)
 
-Further and detailed information can be found here:
+### Further and detailed information can be found here:
 Hassan, Omiya, et al. "Energy Efficient Deep Learning Inference Embedded on FPGA for Sleep Apnea Detection." Journal of Signal Processing Systems (2022): 1-11.
