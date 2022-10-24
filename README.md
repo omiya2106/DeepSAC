@@ -7,5 +7,4 @@ network multiplies its weights to the corresponding output data from the previou
 ![image](https://user-images.githubusercontent.com/48494146/197578627-23737a04-d5dd-488a-ab54-075064ea3f5b.png)
 
 Further and detailed information can be found here:
-
-[^1]: Hassan, Omiya, et al. "Energy Efficient Deep Learning Inference Embedded on FPGA for Sleep Apnea Detection." Journal of Signal Processing Systems (2022): 1-11.
+Hassan, Omiya, et al. "Energy Efficient Deep Learning Inference Embedded on FPGA for Sleep Apnea Detection." Journal of Signal Processing Systems (2022): 1-11.
