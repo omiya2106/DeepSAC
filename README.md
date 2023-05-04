@@ -22,5 +22,4 @@ network multiplies its weights to the corresponding output data from the previou
 ![image](https://user-images.githubusercontent.com/48494146/197579750-314e038e-5faa-4b2e-92c4-bcdf6d4e8983.png)
 **Figure:** Simulation results on reprogrammable hardware (Nexys Artix-7 FPGA)
 
-### Further and detailed information can be found here:
-Hassan, Omiya, et al. "Energy Efficient Deep Learning Inference Embedded on FPGA for Sleep Apnea Detection." Journal of Signal Processing Systems (2022): 1-11.
+### If you are using the codes and DeepSAC algorithm please cite the paper as " Hassan, Omiya, et al. "Energy Efficient Deep Learning Inference Embedded on FPGA for Sleep Apnea Detection." Journal of Signal Processing Systems (2022): 1-11."
