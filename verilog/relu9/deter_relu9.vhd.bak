@@ -1,0 +1,18 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity detrelu8 is
+port (x: in std_logic_vector(8 downto 0); sel: in std_logic_vector(1 downto 0); y: out std_logic_vector(8 downto 0));
+end detrelu8;
+
+Architecture arch of detrelu8 is
+begin
+process(x,sel)
+begin
+case sel is
+when "00" => y <= x;
+when "01" => y <= "000000000";
+when others => y <= "000000000";
+end case;
+end process;
+end arch;

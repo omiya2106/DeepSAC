@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity deter is
+port (x : in std_logic_vector(7 downto 0); y: out std_logic_vector(1 downto 0));
+end deter;
+
+Architecture arch of deter is
+
+signal s: std_logic_vector(1 downto 0);
+
+begin
+process(x)
+begin
+if (x = "11000000" or x> "11000000") then s<= "11";
+elsif (x < "10000000" and x> "11000000") then s <= "10";
+elsif (x= "10000000") then s<= "10";
+elsif (x<"00100000" and x> "10000000") then s<= "01"; 
+elsif (x = "01000000") then s <="01";
+elsif (x< "01000000" and  x> "00000000") then s <= "00";
+else s<="00"; 
+end if;
+end process;
+y <= s;
+end arch;

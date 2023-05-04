@@ -1,0 +1,18 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity SISO28 is
+port (din: in std_logic_vector(7 downto 0); clk: in std_logic;
+	dout: out std_logic_vector(7 downto 0));
+end SISO28;
+
+architecture arch of SISO28 is
+
+begin
+process(clk)
+begin 
+if(clk'event and clk='1') then dout(3 downto 0) <= din(5 downto 2);
+end if;
+end process;
+dout(7 downto 4)<= "0000";
+end arch;

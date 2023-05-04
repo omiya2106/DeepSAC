@@ -1,0 +1,12 @@
+C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/FullAdder.vhd {2 {vcom -work work -2002 -vopt -stats=none C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/FullAdder.vhd
+** Warning: (vcom-14) Failed to open "C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/sigmoid_9.mpf" specified by the MODELSIM environment variable.
+
+The system cannot find the file specified. (GetLastError() = 2)
+Model Technology ModelSim SE-64 vcom 10.4 Compiler 2014.12 Dec  3 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FA
+-- Compiling architecture behave of FA
+
+} {} {}}

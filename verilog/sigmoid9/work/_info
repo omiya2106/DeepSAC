@@ -1,0 +1,656 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/omiya/OneDrive/Documents/Research/fall20/research/shuvobai/shift_hidden
+T_opt
+!s110 1614893157
+VfJ?3;R[J@TXckCBljhh4T1
+Z1 04 4 7 work sig9 sigmoid 1
+=1-9cb6d0bc45f9-60415065-a6-6348
+Z2 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z3 OL;O;10.4;61
+R0
+T_opt1
+!s110 1614894006
+VMl[?`UfU;TD_0`2BE5D:b0
+R1
+=1-9cb6d0bc45f9-604153b6-31d-5e44
+R2
+n@_opt1
+R3
+Eadd8
+Z4 w1605558077
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9
+Z8 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/add9.vhd
+Z9 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/add9.vhd
+l0
+L4
+V`n0SclQb]97N_zOH8afc;3
+!s100 06[hPJKNY;1a=TKWo:Ug;0
+Z10 OL;C;10.4;61
+32
+Z11 !s110 1614892481
+!i10b 1
+Z12 !s108 1614892481.014000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/add9.vhd|
+Z14 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/add9.vhd|
+!i113 0
+Z15 o-work work -2002
+Z16 tExplicit 1
+Astruct
+R5
+R6
+DEx4 work 4 add8 0 22 `n0SclQb]97N_zOH8afc;3
+l16
+L8
+V9=MQf>BR0;0P`lzn0Cf1h0
+!s100 IC4X6CVeF?gSM8Lnjo2^N0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Eadd9
+Z17 w1614884740
+R5
+R6
+R7
+Z18 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/add8.vhd
+Z19 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/add8.vhd
+l0
+L4
+Vk3MZQ`h8=?=RY8b`HF>4F3
+!s100 QG5JBASQ_XSi?G97Qa9Y01
+R10
+32
+Z20 !s110 1614893144
+!i10b 1
+Z21 !s108 1614893144.622000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/add8.vhd|
+Z23 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/add8.vhd|
+!i113 0
+R15
+R16
+Astruct
+R5
+R6
+DEx4 work 4 add9 0 22 k3MZQ`h8=?=RY8b`HF>4F3
+l15
+L8
+V_4?F4To`cezeD6m3o[O`S3
+!s100 XIb6ZL7R3T^dL5Q=>8Z950
+R10
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R15
+R16
+Ecomp
+Z24 w1614892700
+R5
+R6
+R7
+Z25 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\compare_9bit.vhd
+Z26 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\compare_9bit.vhd
+l0
+L4
+VKF]DGQZC6>CcgoUzJDz:11
+!s100 Pi0NY@Eoje]lP[YGFQzaZ1
+R10
+32
+R20
+!i10b 1
+Z27 !s108 1614893144.383000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\compare_9bit.vhd|
+Z29 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\compare_9bit.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 4 comp 0 22 KF]DGQZC6>CcgoUzJDz:11
+l9
+L8
+V44>kSi=<L7EZDWY2]ojba2
+!s100 LI>L4Yj61lo@iLDIMdN920
+R10
+32
+R20
+!i10b 1
+R27
+R28
+R29
+!i113 0
+R15
+R16
+Ecomp2
+Z30 w1614892685
+R5
+R6
+R7
+Z31 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\comp2_9bit.vhd
+Z32 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\comp2_9bit.vhd
+l0
+L4
+VM=_kX54_:^5lGTiH]n=[50
+!s100 hf5JJ:3DYNR30z4gMeOd41
+R10
+32
+R20
+!i10b 1
+Z33 !s108 1614893144.301000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\comp2_9bit.vhd|
+Z35 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\comp2_9bit.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 5 comp2 0 22 M=_kX54_:^5lGTiH]n=[50
+l9
+L8
+V[g2O@YNkPROe>9]DYLlXY1
+!s100 B;IccgZOlR:h4iCEg6[ne1
+R10
+32
+R20
+!i10b 1
+R33
+R34
+R35
+!i113 0
+R15
+R16
+Edeter
+Z36 w1614892736
+R5
+R6
+R7
+Z37 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\determine_9bit.vhd
+Z38 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\determine_9bit.vhd
+l0
+L4
+VKTBG5SBT]DfZlSV2ZcVlk2
+!s100 7R?EKcTAgNNJ;1l__T9hJ0
+R10
+32
+R20
+!i10b 1
+Z39 !s108 1614893144.464000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\determine_9bit.vhd|
+Z41 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\determine_9bit.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 5 deter 0 22 KTBG5SBT]DfZlSV2ZcVlk2
+l12
+L8
+V?Z_SZXO]`^o5oW6koV?^>3
+!s100 hFNh4onM9e4QSA3FPi6Vn0
+R10
+32
+R20
+!i10b 1
+R39
+R40
+R41
+!i113 0
+R15
+R16
+Efa
+Z42 w1605023059
+R5
+R6
+R7
+Z43 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/FullAdder.vhd
+Z44 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/FullAdder.vhd
+l0
+L4
+V@Sm<V;?jRJ<;nXc]97hoR1
+!s100 YIZeY]JEW<FLb=bNeHEDP1
+R10
+32
+R20
+!i10b 1
+Z45 !s108 1614893144.542000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/FullAdder.vhd|
+Z47 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/FullAdder.vhd|
+!i113 0
+R15
+R16
+Abehave
+R5
+R6
+DEx4 work 2 fa 0 22 @Sm<V;?jRJ<;nXc]97hoR1
+l9
+L8
+VHUm_CT@i?UVQOm4GZdm?T1
+!s100 :?8l?Pm[A0?_o2;Plf`SL3
+R10
+32
+R20
+!i10b 1
+R45
+R46
+R47
+!i113 0
+R15
+R16
+Esig8
+Z48 w1605562705
+Z49 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R5
+R6
+R7
+Z50 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/sig9bit.vhd
+Z51 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/sig9bit.vhd
+l0
+L5
+V:`EV3@^lK^CHFh<dkX`W:3
+!s100 iS=iHPc<Bg5K85O3^[GSg3
+R10
+32
+Z52 !s110 1614892480
+!i10b 1
+Z53 !s108 1614892480.606000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/sig9bit.vhd|
+Z55 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/sig9bit.vhd|
+!i113 0
+R15
+R16
+Asigmoid
+R49
+R5
+R6
+DEx4 work 4 sig8 0 22 :`EV3@^lK^CHFh<dkX`W:3
+l47
+L9
+VNTDYQPAk7JbcMf4T`HM;53
+!s100 >Zm4lQnO3b3hblaj14DTD3
+R10
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 0
+R15
+R16
+Esig9
+Z56 w1614893138
+R49
+R5
+R6
+R7
+Z57 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\sig9bit.vhd
+Z58 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\sig9bit.vhd
+l0
+L5
+VCgKBG<cB7lMAQjEHTQ@7H2
+!s100 A@ejPQ0aa=U;XM=d5eGP41
+R10
+32
+Z59 !s110 1614893143
+!i10b 1
+Z60 !s108 1614893143.889000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\sig9bit.vhd|
+Z62 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\sig9bit.vhd|
+!i113 0
+R15
+R16
+Asigmoid
+R49
+R5
+R6
+DEx4 work 4 sig9 0 22 CgKBG<cB7lMAQjEHTQ@7H2
+l47
+L9
+VN_1J_6A;F_nc2e0X^Z6_T1
+!s100 kX]WoB4[9N4;92@HY7<EW1
+R10
+32
+R59
+!i10b 1
+R60
+R61
+R62
+!i113 0
+R15
+R16
+Esiso28
+Z63 w1605552475
+R5
+R6
+R7
+Z64 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/2bit_SISO9.vhd
+Z65 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/2bit_SISO9.vhd
+l0
+L4
+Vzn9zdZgz^>A6gCVPAWUfE1
+!s100 VKh5SZD:g:4F?bbR8Jz8n2
+R10
+32
+R52
+!i10b 1
+Z66 !s108 1614892480.696000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/2bit_SISO9.vhd|
+Z68 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/2bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 6 siso28 0 22 zn9zdZgz^>A6gCVPAWUfE1
+l11
+L9
+V4D[MGbI6RiBe<3IXeWCZP2
+!s100 >PI9zQ9IO]J:Kc?zj341E3
+R10
+32
+R52
+!i10b 1
+R66
+R67
+R68
+!i113 0
+R15
+R16
+Esiso29
+Z69 w1614892528
+R5
+R6
+R7
+Z70 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\2bit_SISO9.vhd
+Z71 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\2bit_SISO9.vhd
+l0
+L4
+V^3QAG4FOGadSjJlb^l;T^0
+!s100 C[<UA>FK46^M0N=Gj<DX>1
+R10
+32
+R59
+!i10b 1
+Z72 !s108 1614893143.970000
+Z73 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\2bit_SISO9.vhd|
+Z74 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\2bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 6 siso29 0 22 ^3QAG4FOGadSjJlb^l;T^0
+l11
+L9
+VQ8DBeLGUG=facYfWhRooo3
+!s100 H24O02?c7I0TcHL^L_Zc10
+R10
+32
+R59
+!i10b 1
+R72
+R73
+R74
+!i113 0
+R15
+R16
+Esiso38
+w1605561416
+R5
+R6
+R7
+Z75 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/3bit_SISO9.vhd
+Z76 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/3bit_SISO9.vhd
+l0
+L4
+Vf]L9d?;38B?1K[InAkSNm1
+!s100 XV9KajFfMWLmZ^7EQ[9dc1
+R10
+32
+R52
+!i10b 1
+Z77 !s108 1614892480.777000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/3bit_SISO9.vhd|
+Z79 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/3bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+w1614892556
+R5
+R6
+DEx4 work 6 siso38 0 22 f]L9d?;38B?1K[InAkSNm1
+l10
+L9
+V62h22U47zTdaHokHVcl;80
+!s100 cMl=zU@D]T@D5l9n_LAlU3
+R10
+32
+R52
+!i10b 1
+R77
+R78
+R79
+!i113 0
+R15
+R16
+Esiso39
+Z80 w1614893095
+R5
+R6
+R7
+Z81 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\3bit_SISO9.vhd
+Z82 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\3bit_SISO9.vhd
+l0
+L4
+VeGVGPo8XZzo5FmzY9d`AA2
+!s100 VMdOKglW0`?^k@5[Io]mP0
+R10
+32
+R20
+!i10b 1
+Z83 !s108 1614893144.052000
+Z84 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\3bit_SISO9.vhd|
+Z85 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\3bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 6 siso39 0 22 eGVGPo8XZzo5FmzY9d`AA2
+l10
+L9
+V8=CFT=z5AE>aDgX7MNMh52
+!s100 VBnQ2bA]7o37?d_MCoVeW2
+R10
+32
+R20
+!i10b 1
+R83
+R84
+R85
+!i113 0
+R15
+R16
+Esiso48
+Z86 w1605551087
+R5
+R6
+R7
+Z87 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/4bit_SISO9.vhd
+Z88 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/4bit_SISO9.vhd
+l0
+L4
+Vf?fe6J91S6cDfEe6NJjOk0
+!s100 k?z3]DDbX?ScS0;N7Fam<2
+R10
+32
+R52
+!i10b 1
+Z89 !s108 1614892480.856000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/4bit_SISO9.vhd|
+Z91 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/4bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 6 siso48 0 22 f?fe6J91S6cDfEe6NJjOk0
+l10
+L9
+VRNQIhSc5G^O9>g]B8jzN?1
+!s100 b7CFlURXT8l?Fo[e3YEG60
+R10
+32
+R52
+!i10b 1
+R89
+R90
+R91
+!i113 0
+R15
+R16
+Esiso49
+Z92 w1614893115
+R5
+R6
+R7
+Z93 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\4bit_SISO9.vhd
+Z94 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\4bit_SISO9.vhd
+l0
+L4
+V=_Dd2;iEiY_Sd>6E;0i0G3
+!s100 LY41c83kcPll<5=R=ai[I1
+R10
+32
+R20
+!i10b 1
+Z95 !s108 1614893144.136000
+Z96 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\4bit_SISO9.vhd|
+Z97 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\4bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 6 siso49 0 22 =_Dd2;iEiY_Sd>6E;0i0G3
+l10
+L9
+VO<BCUB?S^JZW_Of_`Hcg<3
+!s100 =lkKDHkG=lanXLVCdfhO_0
+R10
+32
+R20
+!i10b 1
+R95
+R96
+R97
+!i113 0
+R15
+R16
+Esiso58
+Z98 w1605557740
+R5
+R6
+R7
+Z99 8C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/5bit_SISO9.vhd
+Z100 FC:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/5bit_SISO9.vhd
+l0
+L4
+VVk>R@G:m7[CK>20?XB>Ko1
+!s100 IX9NdcPboam2JXKzH50RA1
+R10
+32
+R52
+!i10b 1
+Z101 !s108 1614892480.936000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/5bit_SISO9.vhd|
+Z103 !s107 C:/Users/omiya/OneDrive/Documents/Research/sp21/springer_apnea_model/sigmoid9/5bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 6 siso58 0 22 Vk>R@G:m7[CK>20?XB>Ko1
+l11
+L9
+VUAki_JFYASYVekimPVM5m1
+!s100 _z=;`KOn3Jjj=@Ng3_@o51
+R10
+32
+R52
+!i10b 1
+R101
+R102
+R103
+!i113 0
+R15
+R16
+Esiso59
+Z104 w1614892635
+R5
+R6
+R7
+Z105 8C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\5bit_SISO9.vhd
+Z106 FC:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\5bit_SISO9.vhd
+l0
+L4
+V@zhfLm22m7M:jLb@2XkIb2
+!s100 UW@PR86IiXzW>Sbj9ShXm1
+R10
+32
+R20
+!i10b 1
+Z107 !s108 1614893144.220000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-vopt|-stats=none|C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\5bit_SISO9.vhd|
+Z109 !s107 C:\Users\omiya\OneDrive\Documents\Research\sp21\springer_apnea_model\sigmoid9\5bit_SISO9.vhd|
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+DEx4 work 6 siso59 0 22 @zhfLm22m7M:jLb@2XkIb2
+l11
+L9
+VOIXT>eG]R8Wm2DZUN]D1K0
+!s100 4`igVgXfTg8gbfCDDG8kW3
+R10
+32
+R20
+!i10b 1
+R107
+R108
+R109
+!i113 0
+R15
+R16
